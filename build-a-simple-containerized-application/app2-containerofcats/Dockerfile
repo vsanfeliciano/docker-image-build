@@ -1,6 +1,6 @@
 FROM redhat/ubi8
 
-LABEL maintainer="Animals4life"
+LABEL maintainer="test@test.com"
 
 RUN yum -y install httpd
 

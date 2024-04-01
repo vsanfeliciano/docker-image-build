@@ -1,6 +1,6 @@
 FROM nginx:latest
 
-LABEL maintainer="adrian@cantrill.io" 
+LABEL maintainer="test@test.com" 
 
 COPY 2048 /usr/share/nginx/html
 
